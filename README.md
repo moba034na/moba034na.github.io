@@ -23,3 +23,4 @@
 [![alt](figs/電流計50mA.png)](href "電流計50mA")
 [![alt](figs/電流計.png)](href "電流計")
 [![alt](figs/電圧計.png)](href "電圧計")
+[![alt](figs/電気用図記号サンプル.png)](href "電気用図記号サンプル")

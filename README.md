@@ -26,4 +26,4 @@
 [![alt](figs/電気用図記号サンプル.png)](href "電気用図記号サンプル")
 
 [![alt](figs/電流計使い方.png)](href "電流計使い方")
-[![alt](figs/電圧計使い方.png)](href "電圧計使い方")
+[![alt](figs/電圧計使い方.jpg)](href "電圧計使い方")

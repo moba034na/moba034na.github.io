@@ -27,3 +27,6 @@
 
 [![alt](figs/電流計使い方.png)](href "電流計使い方")
 [![alt](figs/電圧計使い方.jpg)](href "電圧計使い方")
+
+[![alt](figs/回路説明.png)](href "回路説明")
+

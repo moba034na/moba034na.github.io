@@ -30,3 +30,7 @@
 
 [![alt](figs/回路説明.png)](href "回路説明")
 [![alt](figs/電流計マイナス端子.png)](href "電流計マイナス端子")
+
+[![alt](figs/1.png)](href "1")
+[![alt](figs/2.png)](href "2")
+[![alt](figs/3.png)](href "3")

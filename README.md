@@ -34,3 +34,6 @@
 [![alt](figs/1.png)](href "1")
 [![alt](figs/2.png)](href "2")
 [![alt](figs/3.png)](href "3")
+
+[![alt](figs/電流の向き.png)](href "電流の向き")
+[![alt](figs/電流の向きsm.png)](href "電流の向きsm")

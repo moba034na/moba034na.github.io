@@ -37,3 +37,7 @@
 
 [![alt](figs/電流の向き.png)](href "電流の向き")
 [![alt](figs/電流の向きsm.png)](href "電流の向きsm")
+
+[![alt](figs/5A.gif)](href "5A")
+[![alt](figs/500mA.gif)](href "500mA")
+[![alt](figs/50mA.gif)](href "50mA")
